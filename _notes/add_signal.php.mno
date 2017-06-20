@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsNarushenia" value="name:id;datatype:3,name:nid;datatype:3,name:naimenovanie;datatype:253" />
+	<infoitem key="UD_rsPodelenia" value="name:Pod_Id;datatype:2,name:Pod_NameBg;datatype:253" />
+</info>

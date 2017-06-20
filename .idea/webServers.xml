@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7031a75f-12be-4793-ac3f-cb9022773557" name="iag112new" url="https://system.iag.bg/iag112new">
+        <fileTransfer host="172.16.4.55" port="22" rootFolder="/home/dbsystem/web/iag112new" accessType="SFTP" password="dfdedfcbdfc4dfc3dfcbdfc7dfc3" username="root">
+          <advancedOptions>
+            <advancedOptions controlEncoding="utf8" dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

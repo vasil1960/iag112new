@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="add_signal.php" server="172.16.4.55//home/dbsystem/web/iag112new/" local="131424306080390287" remote="131424310070000000" Dst="2" />
+<file name="Connection.php" server="172.16.4.55//home/dbsystem/web/iag112new/" local="131308768820000000" remote="131308768820000000" Dst="1" />
+<file name="edit_otchet_signal.php" server="172.16.4.55//home/dbsystem/web/iag112new/" local="131424306085853858" remote="131424310070000000" Dst="2" />
+<file name="edit_signal.php" server="172.16.4.55//home/dbsystem/web/iag112new/" local="131424306092858494" remote="131424310070000000" Dst="2" />
+<file name="index.php" server="172.16.4.55//home/dbsystem/web/iag112new/" local="131424306094249405" remote="131424310070000000" Dst="2" />
+<file name="login.php" server="172.16.4.55//home/dbsystem/web/iag112new/" local="131323239141342905" remote="131323239140000000" Dst="1" />
+<file name="logout.php" server="172.16.4.55//home/dbsystem/web/iag112new/" local="131323200889104474" remote="131323200880000000" Dst="1" />
+<file name="main.php" server="172.16.4.55//home/dbsystem/web/iag112new/" local="131334518129211671" remote="131364611750000000" Dst="2" />
+<file name="otchet_signal.php" server="172.16.4.55//home/dbsystem/web/iag112new/" local="131424306099672999" remote="131424310070000000" Dst="2" />
+<file name="signali.php" server="172.16.4.55//home/dbsystem/web/iag112new/" local="131424306101424152" remote="131424310070000000" Dst="2" />
+<file name="Signal.php" server="172.16.4.55//home/dbsystem/web/iag112new/" local="131312825660000000" remote="131312825660000000" Dst="1" />
+<file name="spravka_result_rdg.php" server="172.16.4.55//home/dbsystem/web/iag112new/" local="131424306198938654" remote="131424306170000000" Dst="2" />
+<file name="spravka_result_dp.php" server="172.16.4.55//home/dbsystem/web/iag112new/" local="131424306217480912" remote="131424306190000000" Dst="2" />
+<file name="SSP.php" server="172.16.4.55//home/dbsystem/web/iag112new/" local="131313196970000000" remote="131313196970000000" Dst="1" />
+<file name="vasil.php" server="172.16.4.55//home/dbsystem/web/iag112new/" local="131316354546717699" remote="131316354510000000" Dst="1" />
+<file name="vasil.class.php" server="172.16.4.55//home/dbsystem/web/iag112new/" local="131318706560000000" remote="131318706560000000" Dst="1" />
+<file name="view_signal.php" server="172.16.4.55//home/dbsystem/web/iag112new/" local="131424306104205995" remote="131424310060000000" Dst="2" />
+<file name="phpinfo.php" server="172.16.4.55//home/dbsystem/web/iag112new/" local="131317909390000000" remote="131317909390000000" Dst="1" />
+<file name="Logos.php" server="172.16.4.55//home/dbsystem/web/iag112new/" local="131323868900000000" remote="131323868900000000" Dst="1" />
+<file name="Session.php" server="172.16.4.55//home/dbsystem/web/iag112new/" local="131333735565118630" remote="131364611750000000" Dst="2" />
+<file name="loglogos.php" server="172.16.4.55//home/dbsystem/web/iag112new/" local="131324134120000000" remote="131324134120000000" Dst="1" />
+<file name="vasil1.php" server="172.16.4.55//home/dbsystem/web/iag112new/" local="131335187130217536" remote="131364611740000000" Dst="2" />
+<file name="vasil.html" server="172.16.4.55//home/dbsystem/web/iag112new/" local="131335260648234599" remote="131364611740000000" Dst="2" />
+<file name="vasil.css" server="172.16.4.55//home/dbsystem/web/iag112new/" local="131335262137156965" remote="131364611740000000" Dst="2" />
+<file name="report.php" server="172.16.4.55//home/dbsystem/web/iag112new/" local="131322365410000000" remote="131322365410000000" Dst="2" />
+<file name="report_view.php" server="172.16.4.55//home/dbsystem/web/iag112new/" local="131322258360000000" remote="131322258360000000" Dst="2" />
+<file name="sftp-config.json" server="172.16.4.55//home/dbsystem/web/iag112new/" local="131418385976688254" remote="131424310070000000" Dst="2" />
+<file name="spravka_result_by_narush.php" server="172.16.4.55//home/dbsystem/web/iag112new/" local="131424306208304845" remote="131424306180000000" Dst="2" />
+<file name="spravka_result_by_otgovoreno.php" server="172.16.4.55//home/dbsystem/web/iag112new/" local="131424306210566337" remote="131424306180000000" Dst="2" />
+<file name="spravka_result_by_proveren_na_mesto.php" server="172.16.4.55//home/dbsystem/web/iag112new/" local="131424306212947936" remote="131424306180000000" Dst="2" />
+<file name="spravka_result_by_falshiv.php" server="172.16.4.55//home/dbsystem/web/iag112new/" local="131424306194335600" remote="131424306170000000" Dst="2" />
+<file name="spravka_result_by_send_to_extra.php" server="172.16.4.55//home/dbsystem/web/iag112new/" local="131424306215229428" remote="131424306190000000" Dst="2" />
+<file name="spravka_result.php" server="172.16.4.55//home/dbsystem/web/iag112new/" local="131424306204912593" remote="131424306180000000" Dst="2" />
+<file name="SpravkaResult.php" server="172.16.4.55//home/dbsystem/web/iag112new/" local="131424297610000000" remote="131424300950000000" Dst="2" />
+<file name="spravka.php" server="172.16.4.55//home/dbsystem/web/iag112new/" local="131424307260350681" remote="131424307230000000" Dst="2" />
+<file name="spravka_result_by_babh.php" server="172.16.4.55//home/dbsystem/web/iag112new/" local="131424306106477539" remote="131424310060000000" Dst="2" />
+<file name="spravka_result_by_iara.php" server="172.16.4.55//home/dbsystem/web/iag112new/" local="131424306106987875" remote="131424310060000000" Dst="2" />
+<file name="spravka_result_by_pojarna.php" server="172.16.4.55//home/dbsystem/web/iag112new/" local="131424306107498168" remote="131424310060000000" Dst="2" />
+<file name="spravka_result_by_policia.php" server="172.16.4.55//home/dbsystem/web/iag112new/" local="131424306108008513" remote="131424310060000000" Dst="2" />
+</dwsync>

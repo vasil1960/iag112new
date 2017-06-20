@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsSignali" value="name:id;datatype:int,name:phone;datatype:string,name:pod_id;datatype:int,name:glav_pod;datatype:int,name:dp_id;datatype:int,name:DGS;datatype:string,name:RDG;datatype:string,name:DP;datatype:string,name:signaldate;datatype:datetime,name:name;datatype:string,name:opisanie;datatype:blob,name:proveren;datatype:int" />
+	<infoitem key="UD_rsSignali_1" value="name:id;datatype:int,name:phone;datatype:string,name:pod_id;datatype:int,name:glav_pod;datatype:int,name:dp_id;datatype:int,name:DGS;datatype:string,name:RDG;datatype:string,name:DP;datatype:string,name:signaldate;datatype:datetime,name:name;datatype:string,name:opisanie;datatype:blob,name:proveren;datatype:int" />
+</info>

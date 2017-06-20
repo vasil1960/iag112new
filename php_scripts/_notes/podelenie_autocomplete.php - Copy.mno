@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsPodelenia" value="name:Pod_Id;datatype:2,name:Glav_Pod;datatype:1,name:podelenie;datatype:253,name:ID;datatype:2,name:RDG;datatype:253,name:grad;datatype:253" />
+</info>

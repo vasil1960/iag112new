@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsActove" value="name:id;datatype:3,name:nid;datatype:3,name:naimenovanie;datatype:253" />
+	<infoitem key="UD_rsEditOtchetSignali" value="name:id;datatype:3,name:signal_id;datatype:3,name:slujitel_id;datatype:3,name:opisanie_otchet;datatype:252,name:note_otchet;datatype:252,name:date_otchet;datatype:12,name:proveren_na_mesto;datatype:1,name:falshiv;datatype:1,name:r_narushenia;datatype:1,name:const_narushenia;datatype:1,name:proveren;datatype:1,name:insert_date;datatype:12,name:insert_user_id;datatype:3,name:updated_date;datatype:12,name:update_user_id;datatype:3,name:signaldate;datatype:12,name:opisanie;datatype:252,name:deistvie;datatype:253,name:deistvie_date;datatype:12,name:DGS;datatype:253,name:RDG;datatype:253,name:naimenovanie;datatype:253,name:narushenia;datatype:1" />
+</info>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsPodelenia" value="name:Pod_Id;datatype:2,name:Pod_NameBg;datatype:253" />
+	<infoitem key="UD_rsNarushenia" value="name:id;datatype:3,name:nid;datatype:3,name:naimenovanie;datatype:253" />
+	<infoitem key="UD_rsSignali" value="name:id;datatype:3,name:signalfrom;datatype:1,name:identnumber;datatype:253,name:pod_id;datatype:3,name:glav_pod;datatype:3,name:signaldate;datatype:12,name:name;datatype:253,name:phone;datatype:253,name:adress;datatype:253,name:send_to;datatype:2,name:send_to_extra;datatype:2,name:opisanie;datatype:252,name:deistvie;datatype:253,name:deistvie_date;datatype:12,name:notes;datatype:253,name:narushenia;datatype:1,name:policia;datatype:1,name:InsertDate;datatype:12,name:InsertUserID;datatype:3,name:UpdateDate;datatype:12,name:UpdateUserID;datatype:3,name:Pod_NameBg;datatype:253,name:Pod_Grad;datatype:253" />
+</info>

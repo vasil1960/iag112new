@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="PageAccessControlMethod" value="dontUseAccessList" />
+	<infoitem key="MM_Session_Count" value="34" />
+	<infoitem key="MM_URL_Count" value="1" />
+	<infoitem key="MM_Form_Count" value="0" />
+	<infoitem key="MM_URL1" value="sid" />
+	<infoitem key="MM_WA_Auth_Count" value="1" />
+	<infoitem key="MM_Session1" value="ID" />
+	<infoitem key="MM_Session2" value="pass_sha" />
+	<infoitem key="MM_Session3" value="Name" />
+	<infoitem key="MM_Session4" value="Familia" />
+	<infoitem key="MM_WA_Auth1" value="LogIn" />
+	<infoitem key="MM_Session5" value="Podelenie" />
+	<infoitem key="MM_Session6" value="Tel" />
+	<infoitem key="MM_Session7" value="GSM" />
+	<infoitem key="MM_Session8" value="Email" />
+	<infoitem key="MM_Session9" value="AccessPodelenia" />
+	<infoitem key="MM_Session10" value="Access112" />
+	<infoitem key="MM_Session11" value="Active" />
+	<infoitem key="MM_Session12" value="ActiveSesion" />
+	<infoitem key="MM_Session13" value="username" />
+	<infoitem key="MM_Session14" value="ins_sing_rec" />
+	<infoitem key="MM_Session15" value="report_session" />
+	<infoitem key="MM_Session16" value="to" />
+	<infoitem key="MM_Session17" value="from" />
+	<infoitem key="MM_Session18" value="logos" />
+	<infoitem key="MM_Session19" value="signali_open" />
+	<infoitem key="MM_Session20" value="logout" />
+	<infoitem key="MM_Session21" value="viiew_signal_id" />
+	<infoitem key="MM_Session22" value="view_signali" />
+	<infoitem key="MM_Session23" value="edit_signal" />
+	<infoitem key="MM_Session24" value="edit_signal_submit" />
+	<infoitem key="MM_Session25" value="login" />
+	<infoitem key="MM_Session26" value="add_new_signal" />
+	<infoitem key="MM_Session27" value="add_signal_submit" />
+	<infoitem key="MM_Session28" value="otchet_signali_logos" />
+	<infoitem key="MM_Session29" value="otchet_signal_submit" />
+	<infoitem key="MM_Session30" value="edit_otchet_signali_logos" />
+	<infoitem key="MM_Session31" value="edit_otchet_submit" />
+	<infoitem key="MM_Session32" value="spravka_logos" />
+	<infoitem key="MM_Session33" value="spravka_submit" />
+	<infoitem key="MM_Session34" value="spravka_result_logos" />
+</info>
