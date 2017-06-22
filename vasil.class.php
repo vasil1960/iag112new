@@ -8,17 +8,17 @@ class Vasil {
 	public static function joinTables( $sAccessPodelenia )
 	{
 		$table = "
- (
-	 (
-		 SELECT  s.*, dgs.Pod_NameBg AS DGS, rdg.Pod_NameBg AS RDG, dp.Pod_NameBG AS DP,dgs.DP_ID AS dp_id, r.proveren AS proveren FROM signali AS s 
-		 INNER JOIN nug.podelenia AS dgs ON dgs.Pod_Id = s.pod_id 
-		 INNER JOIN nug.podelenia AS rdg ON rdg.Pod_Id = dgs.Glav_Pod 
-		 LEFT JOIN nug.podelenia AS dp ON dp.Pod_Id = dgs.DP_ID
-		 LEFT JOIN report as r ON s.id = r.signal_id WHERE 1 = 1  
-		 " . self::selectPodelenie( $sAccessPodelenia ) . "
-	 ) AS s
- ) 
-";
+		 (
+			 (
+				 SELECT  s.*, dgs.Pod_NameBg AS DGS, rdg.Pod_NameBg AS RDG, dp.Pod_NameBG AS DP,dgs.DP_ID AS dp_id, r.proveren AS proveren FROM signali AS s 
+				 INNER JOIN nug.podelenia AS dgs ON dgs.Pod_Id = s.pod_id 
+				 INNER JOIN nug.podelenia AS rdg ON rdg.Pod_Id = dgs.Glav_Pod 
+				 LEFT JOIN nug.podelenia AS dp ON dp.Pod_Id = dgs.DP_ID
+				 LEFT JOIN report as r ON s.id = r.signal_id WHERE 1 = 1  
+				 " . self::selectPodelenie( $sAccessPodelenia ) . "
+			 ) AS s
+		 ) 
+	   ";
 		return $table;
 	}
 	
